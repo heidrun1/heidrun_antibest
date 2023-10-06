@@ -1,6 +1,6 @@
 Config = {
     Bests = {
-        "identifier",
+        "identifier" = true,
     }
 }
 
